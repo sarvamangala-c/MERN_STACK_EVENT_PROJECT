@@ -5,19 +5,36 @@ const About = () => {
     <section className="about container">
       <h4>Events</h4>
       <h2>ABOUT</h2>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis
-        voluptas provident animi corrupti dolor, ipsum deleniti perferendis
-        veniam neque labore enim odio ratione. Ad commodi rem corporis soluta
-        sed reprehenderit a quasi nihil, odit aperiam exercitationem? Suscipit
-        rerum quibusdam inventore atque veritatis accusantium excepturi,
-        molestias optio perferendis aliquam harum, amet dolore! Animi
-        consequuntur officiis modi eius cumque reiciendis harum ipsum
-        praesentium numquam fugit? Consequatur eveniet recusandae harum hic. Eum
-        illo praesentium optio accusantium, hic quibusdam delectus voluptatem
-        qui a officiis dolorum minima cum illum culpa doloremque quia quidem aut
-        sed laudantium nam repudiandae sequi similique! Esse natus at quas?
-      </p>
+      <p>We Turn Moments into Memories.</p>
+<div>
+ <p>
+    At <strong>EVENTO</strong>, we specialize in crafting unforgettable experiences
+    through thoughtful planning, creative design, and flawless execution.
+  </p>
+ 
+  <p>
+    Whether it's a corporate event, wedding, cultural fest, or private celebration,
+    we handle every detail — so you can focus on enjoying the moment.
+  </p>
+
+  <h3>🎯 What We Offer:</h3>
+  <ul>
+    <li>Corporate Events (Seminars, Launches, Team-Building)</li>
+    <li>Weddings & Celebrations (Traditional, Destination, Themed)</li>
+    <li>College & Cultural Fests</li>
+    <li>Concerts, Exhibitions & Trade Shows</li>
+  </ul>
+
+  <h3>✨ Why Choose Us:</h3>
+  <ul>
+    <li>Creative Concepts & Custom Themes</li>
+    <li>Experienced Event Planners & Coordinators</li>
+    <li>End-to-End Management</li>
+    <li>Transparent Communication & Timely Delivery</li>
+  </ul>
+</div>
+
+
     </section>
   );
 };
